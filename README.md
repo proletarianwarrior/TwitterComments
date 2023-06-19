@@ -191,5 +191,5 @@ base_plot = ggplot(df_long, aes(x='Year', y='Value', fill='Data')) + \
 print(base_plot)
 ```
 
-![](D:\Users\DanYang\Desktop\推特有关习近平推文情感态度分析\picture\result.png)
+![](picture/result.png)
 
